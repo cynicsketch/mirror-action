@@ -1,7 +1,8 @@
 # mirror-action
 A GitHub Action for mirroring your commits to a different remote repository
 
-This project is [mirrored on GitLab](https://gitlab.com/yesolutions/mirror-action)
+Minor fork of the original https://gitlab.com/yesolutions/mirror-action, which is
+seemingly unmaintained.
 
 ## Example workflows
 
